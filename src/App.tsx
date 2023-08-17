@@ -9,7 +9,7 @@ const App = () => {
       <hr/>
       {/*<TiposBasicos/>*/}
       {/*<ObjetosLiterales/>*/}
-      <Funciones/>
+      {/*<Funciones/>*/}
     </div>
   )
 }
